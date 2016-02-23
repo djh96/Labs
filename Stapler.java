@@ -44,7 +44,6 @@ public class Stapler
 			System.out.println("Stapler jammed!");
 			staplesLeft -= 3;	
 		}
-		System.out.println(staplesLeft);
 		if(staplesLeft <= 0)
 		{	
 			System.out.println("You have run out of staples!");
