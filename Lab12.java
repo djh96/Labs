@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Lab13
+public class Lab12
 {
 	public static void main(String[] args) 
 	{
